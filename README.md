@@ -1,7 +1,7 @@
 # HTML exercises
 ## Exercise 1
 ##### Create an HTML page that will display your name in the TITLE and the page itself will have hello world written in bold
-![image](https://github.com/Michal7948/HTML-exercises/assets/108341249/150423f2-3aa9-4965-849f-2fffcacaa857)
+![image](https://github.com/Michal7948/HTML-exercises/assets/108341249/494f9d1f-16c1-4ad8-89f9-ad62786518e4)
 
 ## Exercise 2
 ##### Create an HTML page that will display 4 different paragraphs, with text in a different font in each paragraph
